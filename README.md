@@ -1,23 +1,126 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://pratikpawar.tech/)
-<h1 align="center">Hi 👋, I'm Pratik Pawar</h1>
-<h3 align="center">A passionate developer from Pune, India.</h3>
+<!-- ====================================================== -->
+<!--                    HERO SECTION                         -->
+<!-- ====================================================== -->
 
-<h3> </h3>
-<img align="right" alt="Coding" width"400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<div align="center">
 
-- 🌱 I’m currently learning **Flutter**
+# Pratik Pawar
 
-- 💬 Ask me about **Java, C++, Competitive Programming**
+### Java Backend Engineer • Enterprise Software • System Design Enthusiast
 
-- 📫 How to reach me **pratikpawar2703@gmail.com**
+Building secure backend systems, scalable APIs and enterprise authentication solutions using Java & Spring Boot.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/pratikpawar-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pratikpawar-" height="30" width="40" /></a>
+<br>
+
+<a href="https://blogs.prat.world">
+<img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/pratikpawar-">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pratikpawar2703@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="850" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=3000&color=6E7681&center=true&vCenter=true&width=850&lines=Building+Backend+Systems;Designing+Authentication+Platforms;Learning+Distributed+Systems;Always+Curious.+Always+Building."/>
+
+</div>
+
+---
+
+# About Me
+
+```java
+public class PratikPawar {
+
+    String role = "Software Engineer";
+
+    String company = "miniOrange";
+
+    String location = "Pune, India";
+
+    String[] interests = {
+        "Backend Engineering",
+        "Distributed Systems",
+        "System Design",
+        "Authentication",
+        "Performance Optimization"
+    };
+
+    String currentFocus =
+        "Building enterprise-grade backend software while continuously learning modern backend architecture.";
+}
+```
+
+---
+# Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,js,react"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-<br>
-<h3> </h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawar-pratik&show_icons=true&locale=en&layout=compact" alt="pawar-pratik" /></p>
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+
+</p>
+
+- Spring Boot
+- Servlets
+- REST APIs
+- JDBC
+- OAuth 2.0
+- SAML
+- JWT
+- Session Management
+
+---
+
+## Database & Messaging
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis"/>
+
+</p>
+
+---
+
+## DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,idea,postman,vscode"/>
+
+</p>
+
+---
+
+# Current Journey
+
+```text
+Java                ████████████████████░   Backend Development
+
+Spring Boot         █████████████████░░░░   Production APIs
+
+System Design       ████████████░░░░░░░░░   Learning Deeply
+
+Cloud               ███████░░░░░░░░░░░░░░   Docker
+
+Open Source         █████░░░░░░░░░░░░░░░░   Growing
