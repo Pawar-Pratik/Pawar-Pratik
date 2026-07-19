@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 288" width="900" height="288" fill="none" role="img" aria-label="Request lifecycle - system architecture">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0d9668"/><stop offset="1" stop-color="#0e8fd6"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#0d9668" stop-opacity="0.10"/><stop offset="1" stop-color="#0d9668" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .k{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;font-weight:600;letter-spacing:.2em}
+    .t{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;font-weight:700}
+    .sub{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;font-weight:500}
+    .flowdot{animation:none}
+    .halo{animation:none}
+    .apulse{animation:apulse 2s ease-in-out infinite}
+    @keyframes apulse{0%,100%{opacity:.55}50%{opacity:1}}
+  </style>
+  <rect x="0.6" y="0.6" width="898.8" height="286.8" rx="18" fill="#f7f9fb" stroke="#e1e7ee" stroke-width="1.25"/>
+  <rect x="16" y="1.1" width="868" height="1.1" rx="0.55" fill="#ffffff" fill-opacity="0"/>
+  <rect x="36" y="30" width="9" height="9" rx="2.5" fill="url(#acc)"/>
+  <text x="56" y="38" class="k" font-size="12" fill="#57616d">REQUEST LIFECYCLE</text>
+  <text x="36" y="62" class="sub" font-size="12.5" fill="#8a94a1">how a request flows through the systems i build</text>
+  <line x1="156" y1="125.0" x2="204" y2="125.0" stroke="#eaeef3" stroke-width="2"/>
+  <path d="M177.0 120.0 l6 5 l-6 5" fill="none" stroke="#8a94a1" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="336" y1="125.0" x2="384" y2="125.0" stroke="#eaeef3" stroke-width="2"/>
+  <path d="M357.0 120.0 l6 5 l-6 5" fill="none" stroke="#8a94a1" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="516" y1="125.0" x2="564" y2="125.0" stroke="#eaeef3" stroke-width="2"/>
+  <path d="M537.0 120.0 l6 5 l-6 5" fill="none" stroke="#8a94a1" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="696" y1="125.0" x2="744" y2="125.0" stroke="#eaeef3" stroke-width="2"/>
+  <path d="M717.0 120.0 l6 5 l-6 5" fill="none" stroke="#8a94a1" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="630.0" y1="154" x2="630.0" y2="208" stroke="#eaeef3" stroke-width="2"/>
+  <g><circle r="7" fill="#0e8fd6" opacity="0.18"/><circle r="3" fill="#0e8fd6"/><animateMotion dur="3.6s" begin="0s" repeatCount="indefinite" path="M90 125.0 L810 125.0" calcMode="linear"/></g>
+  <g><circle r="7" fill="#0d9668" opacity="0.18"/><circle r="3" fill="#0d9668"/><animateMotion dur="3.6s" begin="1.8s" repeatCount="indefinite" path="M90 125.0 L810 125.0" calcMode="linear"/></g>
+  <g><circle r="7" fill="#0e8fd6" opacity="0.18"/><circle r="3" fill="#0e8fd6"/><animateMotion dur="2.4s" begin="0.6s" repeatCount="indefinite" path="M630.0 154 L630.0 208 L630.0 154" calcMode="linear"/></g>
+  <rect x="24" y="96" width="132" height="58" rx="11" fill="#ffffff" stroke="#e1e7ee" stroke-width="1.25"/>
+  <circle class="" cx="40" cy="117" r="4" fill="#0e8fd6"/>
+  <text x="52" y="121" class="t" font-size="13" fill="#1f2328">CLIENT</text>
+  <text x="40" y="139" class="sub" font-size="10" fill="#8a94a1">HTTP · REST</text>
+  <rect x="204" y="96" width="132" height="58" rx="11" fill="#ffffff" stroke="#e1e7ee" stroke-width="1.25"/>
+  <circle class="" cx="220" cy="117" r="4" fill="#57616d"/>
+  <text x="232" y="121" class="t" font-size="13" fill="#1f2328">GATEWAY</text>
+  <text x="220" y="139" class="sub" font-size="10" fill="#8a94a1">routing · limits</text>
+  <rect x="384" y="96" width="132" height="58" rx="11" fill="#ffffff" stroke="#0d9668" stroke-width="1.6"/>
+  <circle class="apulse" cx="400" cy="117" r="4" fill="#0d9668"/>
+  <text x="412" y="121" class="t" font-size="13" fill="#1f2328">AUTH</text>
+  <text x="400" y="139" class="sub" font-size="10" fill="#8a94a1">OAuth2 · JWT · SAML</text>
+  <rect x="564" y="96" width="132" height="58" rx="11" fill="#ffffff" stroke="#e1e7ee" stroke-width="1.25"/>
+  <circle class="" cx="580" cy="117" r="4" fill="#57616d"/>
+  <text x="592" y="121" class="t" font-size="13" fill="#1f2328">SERVICE</text>
+  <text x="580" y="139" class="sub" font-size="10" fill="#8a94a1">Spring Boot</text>
+  <rect x="744" y="96" width="132" height="58" rx="11" fill="#ffffff" stroke="#e1e7ee" stroke-width="1.25"/>
+  <circle class="" cx="760" cy="117" r="4" fill="#3b82f6"/>
+  <text x="772" y="121" class="t" font-size="13" fill="#1f2328">POSTGRES</text>
+  <text x="760" y="139" class="sub" font-size="10" fill="#8a94a1">persistence</text>
+  <rect x="564" y="208" width="132" height="58" rx="11" fill="#ffffff" stroke="#e1e7ee" stroke-width="1.25"/>
+  <circle class="" cx="580" cy="229" r="4" fill="#dc382d"/>
+  <text x="592" y="233" class="t" font-size="13" fill="#1f2328">REDIS</text>
+  <text x="580" y="251" class="sub" font-size="10" fill="#8a94a1">cache · sessions</text>
+  <text x="36" y="250" class="sub" font-size="11.5" fill="#8a94a1"><tspan fill="#0d9668">//</tspan> stateless services · JWT sessions cached in Redis · Postgres as source of truth</text>
+</svg>
