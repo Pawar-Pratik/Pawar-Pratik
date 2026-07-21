@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<a href="https://blogs.prat.world"><img src="assets/badge-blog.svg" height="34" alt="Blog"></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/pratikpawar-"><img src="assets/badge-linkedin.svg" height="34" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:pratikpawar2703@gmail.com"><img src="assets/badge-email.svg" height="34" alt="Email"></a>
+<a href="https://prat.world"><img src="assets/badge-portfolio.svg" height="34" alt="Portfolio"></a>&nbsp;&nbsp;<a href="https://blogs.prat.world"><img src="assets/badge-blog.svg" height="34" alt="Blog"></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/pratikpawar-"><img src="assets/badge-linkedin.svg" height="34" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:pratikpawar2703@gmail.com"><img src="assets/badge-email.svg" height="34" alt="Email"></a>
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <br/>
 
-<img src="assets/about.svg" width="100%" alt="whoami — Pratik Pawar, Software Engineer @ miniOrange, Pune. Core stack: Java, Spring Boot, REST, Auth. Focus: distributed systems, system design, authentication (OAuth, SAML, JWT), performance.">
+<img src="assets/about.svg" width="100%" alt="whoami — Pratik Pawar, Software Engineer, open to new opportunities. Core stack: Java, Spring Boot, REST, Auth. Focus: distributed systems, system design, authentication (OAuth, SAML, JWT), performance.">
 
 <br/>
 
