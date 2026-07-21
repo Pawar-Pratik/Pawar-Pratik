@@ -13,11 +13,11 @@
 
 </div>
 
-<br/>
+<!-- <br/> -->
 
-<img src="assets/code.svg" width="100%" alt="Sample Spring Boot code — an AuthController exposing POST /api/v1/auth/token that validates a login request and issues an OAuth2/JWT token.">
+<!-- <img src="assets/code.svg" width="100%" alt="Sample Spring Boot code — an AuthController exposing POST /api/v1/auth/token that validates a login request and issues an OAuth2/JWT token."> -->
 
-<br/>
+<!-- <br/> -->
 
 <img src="assets/about.svg" width="100%" alt="whoami — Pratik Pawar, Software Engineer, open to new opportunities. Core stack: Java, Spring Boot, REST, Auth. Focus: distributed systems, system design, authentication (OAuth, SAML, JWT), performance.">
 
